@@ -1,0 +1,62 @@
+[
+    {
+        "name": "1/2 Indian Pakur Black Stone Chips",
+        "category": "Indian Pakur",
+        "discription": "In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content. Lorem ipsum may be used as a placeholder before the final copy is available.",
+        "img": "https://img.tradeford.com/pimages/l/2/990252.jpg",
+        "stock": 36,
+        "star": 5,
+        "price": 68.36,
+        "shipping": 7.99
+    },
+    {
+        "name": "3/4 Indian Pakur Black Stone Chips",
+        "category": "Indian Pakur",
+        "discription": "In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content. Lorem ipsum may be used as a placeholder before the final copy is available.",
+        "img": "https://tedfo.com/wp-content/uploads/65271312_874939766187032_807424572855943168_n.jpg",
+        "stock": 36,
+        "star": 4,
+        "price": 68.36,
+        "shipping": 7.99
+    },
+    {
+        "name": "5/8 Indian Pakur Black Stone Chips",
+        "category": "Indian Pakur",
+        "discription": "In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content. Lorem ipsum may be used as a placeholder before the final copy is available.",
+        "img": "https://tiimg.tistatic.com/fp/1/005/008/black-5-8-and-half-inch-stone-chips-for-construction-work-033-w410.jpg",
+        "stock": 36,
+        "star": 3,
+        "price": 68.36,
+        "shipping": 7.99
+    },
+    {
+        "name": "Bolder Indian Pakur Black Stone Chips",
+        "category": "Indian Pakur",
+        "discription": "In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content. Lorem ipsum may be used as a placeholder before the final copy is available.",
+        "img": "https://ehsmith.co.uk/wp-content/uploads/00037143-1.jpg",
+        "stock": 36,
+        "star": 4,
+        "price": 68.36,
+        "shipping": 7.99
+    },
+    {
+        "name": " Indian Pakur Black Stone Dust",
+        "category": "Indian Pakur",
+        "discription": "In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content. Lorem ipsum may be used as a placeholder before the final copy is available.",
+        "img": "https://5.imimg.com/data5/LI/MV/MY-50854252/40-mm-crushing-stone-chips-500x500.jpg",
+        "stock": 36,
+        "star": 5,
+        "price": 68.36,
+        "shipping": 7.99
+    },
+    {
+        "name": "Black and White Stone Chips (aggregate)",
+        "category": "Aggregate",
+        "discription": "In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content. Lorem ipsum may be used as a placeholder before the final copy is available.",
+        "img": "https://tedfo.com/wp-content/uploads/IMG_20190427_144225.jpg",
+        "stock": 36,
+        "star": 4.5,
+        "price": 68.36,
+        "shipping": 7.99
+    }
+]

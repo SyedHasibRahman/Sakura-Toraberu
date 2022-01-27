@@ -1,0 +1,12 @@
+.review img{
+    height: 80px;
+    width: 80px;
+    border-radius: 50%;
+    margin: auto;
+}
+.card-footer{
+    background: black; 
+}
+.icon-color{
+    color: gold;
+}

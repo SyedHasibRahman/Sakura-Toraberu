@@ -1,0 +1,14 @@
+footer{
+    background-color: #dcdcdc;
+    color: black;
+}
+footer a{
+    text-decoration: none;
+}
+section{
+    /* background-color: #333; */
+}
+
+.copy-right{
+    background-color: rgba(0, 0, 0, 0.2);
+}

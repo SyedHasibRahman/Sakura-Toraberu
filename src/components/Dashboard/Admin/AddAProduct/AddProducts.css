@@ -1,0 +1,13 @@
+.addproducts form{
+    display: flex;
+    flex-direction: column; 
+    justify-content: center;
+    align-items: center; 
+}
+.addproducts h2{
+    width: 100%;
+}
+.addproducts form input,textarea{ 
+    width: 100%;
+    margin:10px; 
+}

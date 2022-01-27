@@ -1,0 +1,22 @@
+.why-bg{  
+    padding: 40px;
+    /* background: #dcdcdc;  */
+    /* clip-path: polygon(100% 0%, 94% 9%, 100% 35%, 100% 70%, 80% 90%, 50% 100%, 20% 90%, 0% 70%, 0% 35%, 5% 9%); */
+
+}
+.why-img{
+    border: 2px solid white;
+    transition: 1s; 
+    -webkit-clip-path: polygon(0% 0%, 75% 0%, 100% 50%, 75% 100%, 0% 100%);
+clip-path: polygon(0% 0%, 75% 0%, 100% 50%, 75% 100%, 0% 100%);
+    /* clip-path: polygon(50% 0%, 100% 38%, 82% 100%, 18% 100%, 0% 38%); */
+}
+.why-img:hover{
+    transform: scale(.9);
+    overflow: hidden;
+}
+.why-bg p{
+    font-size: 14px;
+    font-weight: 300;
+    text-align: justify;
+}

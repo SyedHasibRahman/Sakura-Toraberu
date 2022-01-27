@@ -1,0 +1,23 @@
+main .card {
+    background-color: #dcdcdc;;
+    color: black; 
+  }
+  
+  
+  h3 {
+    font-family: Times New Roman;
+    font-weight: bold;
+  }
+  hr {
+    border-bottom: solid black 1px;
+  }
+  
+  
+  input, p { 
+    color: black !important;
+  }
+  
+  ::placeholder {
+    color: black !important;
+  }
+  
